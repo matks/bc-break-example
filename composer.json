@@ -1,0 +1,16 @@
+{
+    "name": "matks/bc-break-example",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "matks",
+            "email": "mathieu.ferment@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Matks\\BcBreakExample\\": "src/"
+        }
+    }
+}
